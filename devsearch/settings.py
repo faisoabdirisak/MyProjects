@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-q2*7g13p2i2yo)wkq7ll&k5y_hul51y-63zia(v&zqt&l1e*#e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['thawing-meadow-59628.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['floating-headland-75461.herokuapp.com','127.0.0.1']
 
 
 # Application definition
@@ -81,12 +81,10 @@ WSGI_APPLICATION = 'devsearch.wsgi.application'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
-     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'project2',
-        'USER': 'moringa',
-        'PASSWORD':'faska12',
-     }
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
 }
 
 
