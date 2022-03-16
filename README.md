@@ -8,18 +8,24 @@
 The application will allow a user to post a project he/she has created and get it reviewed by other users.
 
 ##  Live Link
- Click [View Site]()  to visit the site.
+ Click [View Site](https://thawing-meadow-59628.herokuapp.com/)  to visit the site.
 
   ## Screenshots
 ###### Profiles
-<img src="">
+<img src="/home/moringa/Pictures/Screenshot from 2022-03-16 10-36-58.png
+/home/moringa/Pictures/Screenshot from 2022-03-16 10-37-28.png
+/home/moringa/Pictures/Screenshot from 2022-03-16 10-43-27.png">
  
 
 ###### project
-<img src="">
+<img src="/home/moringa/Pictures/Screenshot from 2022-03-16 10-36-58.png
+/home/moringa/Pictures/Screenshot from 2022-03-16 10-37-28.png
+/home/moringa/Pictures/Screenshot from 2022-03-16 10-43-27.png">
 
 ###### Accounts
-<img src="">
+<img src="/home/moringa/Pictures/Screenshot from 2022-03-16 10-36-58.png
+/home/moringa/Pictures/Screenshot from 2022-03-16 10-37-28.png
+/home/moringa/Pictures/Screenshot from 2022-03-16 10-43-27.png">
 
 
 ## User Story  
