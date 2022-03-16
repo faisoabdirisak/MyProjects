@@ -32,3 +32,44 @@ The application will allow a user to post a project he/she has created and get i
 * View my profile page
 
 ## Setup and Installation  
+
+o get the project .......  
+  
+##### Cloning the repository:  
+ ``` 
+git clone https://github.com/faisoabdirisak/MyProjects.git
+```
+##### Navigate into the folder 
+ ``` 
+cd MyProjects
+```
+##### Install and activate Virtual  
+ ``` 
+- python3 -m venv virtual - source virtual/bin/activate  
+```  
+##### Install Dependencies  
+ ``` 
+ pip install -r requirements.txt 
+```  
+ ##### Setup Database  
+  SetUp your database User,Password, Host then make migrate  
+ ``` 
+python manage.py makemigrations 
+ ``` 
+ Now Migrate  
+ ```
+ python manage.py migrate 
+```
+##### Run the application  
+ ``` 
+ python manage.py runserver 
+``` 
+##### Running the application  
+ ``` 
+ python manage.py server 
+```
+##### Testing the application  
+ ``` 
+ python manage.py test 
+```
+Open the application on your browser `127.0.0.1:8000`.  
