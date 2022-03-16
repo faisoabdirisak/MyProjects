@@ -12,9 +12,7 @@ The application will allow a user to post a project he/she has created and get i
 
   ## Screenshots
 ###### Profiles
-<img src="/home/moringa/Pictures/Screenshot from 2022-03-16 10-36-58.png
-/home/moringa/Pictures/Screenshot from 2022-03-16 10-37-28.png
-/home/moringa/Pictures/Screenshot from 2022-03-16 10-43-27.png">
+<img src="static/images/Screenshot from 2022-03-16 10-36-58.png">
  
 
 ###### project
