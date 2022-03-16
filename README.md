@@ -79,3 +79,12 @@ Open the application on your browser `127.0.0.1:8000`.
 A user needs to log in if they have na existing account
 A user can sign up f they do not have an account
 A user then can be able to view a persons profile and the projects they have posted.
+
+## Technology used  
+  
+* python3.8  
+* Django 4.1
+* Html
+* CSS
+* Javascript
+* Heroku
