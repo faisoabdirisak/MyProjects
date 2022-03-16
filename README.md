@@ -33,7 +33,7 @@ The application will allow a user to post a project he/she has created and get i
 
 ## Setup and Installation  
 
-o get the project .......  
+To get the project .......  
   
 ##### Cloning the repository:  
  ``` 
@@ -73,3 +73,9 @@ python manage.py makemigrations
  python manage.py test 
 ```
 Open the application on your browser `127.0.0.1:8000`.  
+
+
+## How the app works
+A user needs to log in if they have na existing account
+A user can sign up f they do not have an account
+A user then can be able to view a persons profile and the projects they have posted.
