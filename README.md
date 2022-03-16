@@ -88,3 +88,10 @@ A user then can be able to view a persons profile and the projects they have pos
 * CSS
 * Javascript
 * Heroku
+
+## Known Bugs  
+* There are no known bugs 
+  
+## Licence
+
+MIT License    [MIT](https://choosealicense.com/licenses/mit/)
